@@ -1,0 +1,10 @@
+# ninja log v5
+0	2010	7228359434816924	CMakeFiles/untitled5.dir/main.cpp.obj	e43a373b90e0dfff
+14	2044	7228359435098399	CMakeFiles/untitled5.dir/BinarySearchTree.cpp.obj	9b7377e34fb8b7bd
+12	773	7228361420007576	CMakeFiles/untitled5.dir/BinarySearchTree.cpp.obj	9b7377e34fb8b7bd
+5	784	7228361420124381	CMakeFiles/untitled5.dir/main.cpp.obj	e43a373b90e0dfff
+785	969	7228361421932222	untitled5.exe	866563e376433f24
+12	2939	7228364895000217	CMakeFiles/untitled5.dir/BinarySearchTree.cpp.obj	9b7377e34fb8b7bd
+2940	4075	7228364905897762	untitled5.exe	866563e376433f24
+5	1516	7228367964205572	CMakeFiles/untitled5.dir/BinarySearchTree.cpp.obj	9b7377e34fb8b7bd
+1534	1800	7228367968262681	untitled5.exe	866563e376433f24
